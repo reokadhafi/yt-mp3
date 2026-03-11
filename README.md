@@ -24,4 +24,16 @@ pkg install ffmpeg
 go mod init ytdl-go
 go mod tidy
 
+go run main.go2. [FFmpeg](https://ffmpeg.org/download.html) (Wajib ada di PATH sistem Anda)
+
+### Instalasi FFmpeg (Termux)
+```bash
+pkg install ffmpeg
+
+### Instalasi ytmp3 (Termux)
+```bash
+
+go mod init ytdl-go
+go mod tidy
+
 go run main.go
